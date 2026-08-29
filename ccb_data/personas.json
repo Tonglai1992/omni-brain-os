@@ -1,0 +1,75 @@
+[
+  {
+    "id": "persona_dongca1",
+    "name": "Tạ Văn Hát",
+    "handle": "@hat",
+    "role": "Chủ Quyền Hệ Thống CCB",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150",
+    "badge": "👑 Sovereign Master",
+    "category": "Cơ Quan Lãnh Đạo Tối Cao",
+    "isMaster": true
+  },
+  {
+    "id": "persona_tuyengiao",
+    "name": "Ban Tuyên Giáo Hiệp Hội CCB TP Hà Nội",
+    "handle": "@tuyengiao_ccbhanoi",
+    "role": "Cơ Quan Ngôn Luận Toàn Hệ Thống",
+    "avatar": "https://images.unsplash.com/photo-1577962917302-cd874c4e31d2?w=150",
+    "badge": "🎖️ Xác Thực Thể Chế",
+    "category": "Khối Ban Chuyên Môn Hiệp Hội"
+  },
+  {
+    "id": "persona_nghiatinh",
+    "name": "Ban Công Tác Xã Hội & Nghĩa Tình Đồng Đội",
+    "handle": "@nghiatinh_ccb",
+    "role": "Ủy Ban Tri Ân & Đền Ơn Đáp Nghĩa",
+    "avatar": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=150",
+    "badge": "❤️ Trái Tim Đồng Đội",
+    "category": "Khối Hoạt Động Xã Hội"
+  },
+  {
+    "id": "persona_xuctien",
+    "name": "Ban Xúc Tiến Đầu Tư & Thương Mại B2B",
+    "handle": "@xuctien_ccb",
+    "role": "Khối Liên Kết Kinh Tế Thủ Đô",
+    "avatar": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=150",
+    "badge": "🤝 Liên Minh Kinh Tế",
+    "category": "Khối Đầu Tư & Xúc Tiến Thương Mại"
+  },
+  {
+    "id": "persona_depin",
+    "name": "Trung Tâm Đổi Mới Sáng Tạo & AI DePIN",
+    "handle": "@depin_innovation_ccb",
+    "role": "Khối Công Nghệ Bán Dẫn & Điện Toán",
+    "avatar": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=150",
+    "badge": "⚡ Công Nghệ Tương Lai",
+    "category": "Khối Công Nghệ Số"
+  },
+  {
+    "id": "persona_namcuong",
+    "name": "Tập Đoàn Nam Cường (KCN Đình Vũ)",
+    "handle": "@namcuong_group",
+    "role": "Hội Viên Kim Cương Khối Công Nghiệp",
+    "avatar": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=150",
+    "badge": "💎 Doanh Nghiệp Kim Cương",
+    "category": "Doanh Nghiệp Hội Viên"
+  },
+  {
+    "id": "persona_thanglong",
+    "name": "Công Ty CP Đầu Tư Xây Dựng CCB Thăng Long",
+    "handle": "@thanglong_ccb",
+    "role": "Tổng Thầu Xây Dựng & Hạ Tầng Xanh",
+    "avatar": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=150",
+    "badge": "🏗️ Tổng Thầu Chiến Lược",
+    "category": "Doanh Nghiệp Hội Viên"
+  },
+  {
+    "id": "persona_benhvien277",
+    "name": "Bệnh Viện & Trung Tâm Điều Dưỡng 27/7",
+    "handle": "@benhvien277",
+    "role": "Chăm Sóc Sức Khỏe & Trị Liệu Thương Binh",
+    "avatar": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=150",
+    "badge": "🏥 Y Tế & Chăm Sóc Đồng Đội",
+    "category": "Khối Y Tế & Điều Dưỡng"
+  }
+]
