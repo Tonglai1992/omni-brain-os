@@ -1,1 +1,80 @@
-[{"id":"p1","author":{"name":"Ta Van Hat"},"content":"Xin chao!"}]
+[
+  {
+    "id": "post_real_hat_1",
+    "author": {
+      "name": "Tạ Văn Hát",
+      "handle": "@hat",
+      "role": "Sovereign Master",
+      "badge": "👑 Sovereign Master",
+      "badgeColor": "#D97706",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150"
+    },
+    "time": "Vừa xong",
+    "createdAt": "2026-08-29T09:32:20.293Z",
+    "title": "",
+    "content": "Xin chào!",
+    "tags": [
+      "#CCBDoanhNghiep"
+    ],
+    "images": [],
+    "videos": [],
+    "embeds": [],
+    "scope": "universal",
+    "likesCount": 1,
+    "isLiked": true,
+    "commentsCount": 0,
+    "comments": []
+  },
+  {
+    "id": "post_real_1",
+    "author": {
+      "name": "Ban Tuyên Giáo Hiệp Hội CCB TP Hà Nội",
+      "handle": "@tuyengiao_ccbhanoi",
+      "role": "Cơ Quan Ngôn Luận Toàn Hệ Thống",
+      "avatar": "https://images.unsplash.com/photo-1577962917302-cd874c4e31d2?w=150",
+      "badge": "🎖️ Xác Thực Thể Chế",
+      "badgeColor": "#C41425"
+    },
+    "time": "25 phút trước",
+    "createdAt": "2026-08-29T09:07:20.293Z",
+    "isEdited": true,
+    "title": "Đại hội Hiệp hội Doanh nghiệp Doanh nhân CCB TP Hà Nội Khóa Mới: Kỷ Luật Người Lính - Kiến Tạo Tương Lai Bền Vững",
+    "content": "Đại hội triệu tập hơn 500 đại biểu đại diện cho hơn 1,200 doanh nghiệp hội viên trên toàn địa bàn Thủ đô, thông qua mục tiêu doanh thu 50,000 tỷ VNĐ và tạo thêm 20,000 việc làm mới cho con em cựu chiến binh.\n\nĐại hội đã biểu quyết thông qua Nghị quyết chiến lược giai đoạn 2026–2031, đẩy mạnh liên kết kinh tế số, phát huy tinh thần tự lực tự cường và phẩm chất Bộ đội Cụ Hồ trên mặt trận kinh tế thời kỳ hội nhập sâu rộng.",
+    "tags": [
+      "#DaiHoiCCBHanoi",
+      "#DoanhNghiepThuDo",
+      "#KyLuatNguoiLinh",
+      "#KienTaoTuongLai"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=1200"
+    ],
+    "videos": [
+      "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+    ],
+    "embeds": [],
+    "scope": "universal",
+    "likesCount": 342,
+    "isLiked": false,
+    "commentsCount": 28,
+    "sharesCount": 89,
+    "comments": [
+      {
+        "id": "c1",
+        "author": "Đồng chí Nguyễn Văn An",
+        "handle": "@an_nguyen_ccb",
+        "role": "Hội Viên Thường Trực",
+        "content": "Chúc mừng Đại hội thành công rực rỡ! Doanh nghiệp CCB Thủ đô quyết tâm đồng hành chuyển đổi số.",
+        "time": "15 phút trước"
+      },
+      {
+        "id": "c2",
+        "author": "Tập Đoàn Nam Cường",
+        "handle": "@namcuong_group",
+        "role": "Doanh Nghiệp Kim Cương",
+        "content": "Nam Cường Group cam kết đồng hành và tài trợ gói quỹ phát triển doanh nghiệp công nghệ số 500 tỷ.",
+        "time": "5 phút trước"
+      }
+    ]
+  }
+]
